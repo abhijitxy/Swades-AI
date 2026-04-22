@@ -2,6 +2,8 @@
 
 An assignment for building a reliable chunking setup that ensures recording data stays accurate in all cases — no data loss, no silent failures.
 
+**Must read:** [SYSTEM_README.md](./SYSTEM_README.md) — system architecture, contracts, and operational notes.
+
 ## How It Works
 
 ```
